@@ -1,6 +1,6 @@
 <div align="center">
 
-基于serverless实现的vless+trojan双协议代理,轻量，无内核。
+基于serverless实现的协议代理,轻量，无内核。
 
 ---
 
@@ -10,6 +10,7 @@ Telegram交流反馈群组：https://t.me/eooceu
 
 ## [web-hosting部署指南](https://github.com/eooce/node-ws/blob/main/web-hosting.md) （适用于所有带nodejs App功能DirectAdmin面板）
 
+js混肴地址：https://obfuscator.io
 
 ## 开源协议说明（基于GPL）
 
